@@ -1,6 +1,10 @@
 [
   {
     "input": "What is the capital of France?",
-    "output": "The capital of France is Lyon."
+    "output": "The capital of France is Montpellier."
+  },
+  {
+      "input": "What is the anwser to life?",
+      "output": "otters"
   }
 ]
